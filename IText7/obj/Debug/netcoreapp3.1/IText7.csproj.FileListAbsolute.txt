@@ -1,0 +1,13 @@
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\bin\Debug\netcoreapp3.1\IText7.exe
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\bin\Debug\netcoreapp3.1\IText7.deps.json
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\bin\Debug\netcoreapp3.1\IText7.runtimeconfig.json
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\bin\Debug\netcoreapp3.1\IText7.runtimeconfig.dev.json
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\bin\Debug\netcoreapp3.1\IText7.dll
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\bin\Debug\netcoreapp3.1\IText7.pdb
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\obj\Debug\netcoreapp3.1\IText7.csprojAssemblyReference.cache
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\obj\Debug\netcoreapp3.1\IText7.csproj.CoreCompileInputs.cache
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\obj\Debug\netcoreapp3.1\IText7.AssemblyInfoInputs.cache
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\obj\Debug\netcoreapp3.1\IText7.AssemblyInfo.cs
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\obj\Debug\netcoreapp3.1\IText7.dll
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\obj\Debug\netcoreapp3.1\IText7.pdb
+C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\IText7\IText7\obj\Debug\netcoreapp3.1\IText7.genruntimeconfig.cache
