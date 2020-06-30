@@ -52,9 +52,12 @@ namespace ITextExample
            
             #endregion
            
-            var header = new Paragraph("Edine~ni Merki").SetTextAlignment(TextAlignment.CENTER)
+            // var header = new Paragraph("Edine~ni Merki").SetTextAlignment(TextAlignment.CENTER)
+            //     .SetFontSize(20).SetFont(font);
+            
+            var header = new Paragraph("Magacini").SetTextAlignment(TextAlignment.CENTER)
                 .SetFontSize(20).SetFont(font);
-              
+           
             Image img = new Image(ImageDataFactory
                     .Create(@"C:\Users\Intern03.ELIKOSOFT\Desktop\MyProjects\IText7\logo.jpg"))
                 .SetTextAlignment(TextAlignment.CENTER);
@@ -66,26 +69,27 @@ namespace ITextExample
             // Table
             Table table = new Table(2, false);
 
-            table.SetWidth(400);
+            table.SetWidth(400).SetHorizontalAlignment(HorizontalAlignment.CENTER);
+            
+            
+             Cell cell11 = new Cell(1, 1)
+                 .SetBackgroundColor(ColorConstants.GRAY)
+                 .SetTextAlignment(TextAlignment.CENTER)
+                 .Add(new Paragraph("Broj na magacin")).SetFont(font);
+             Cell cell12 = new Cell(1, 1)
+                 .SetBackgroundColor(ColorConstants.GRAY)
+                 .SetTextAlignment(TextAlignment.CENTER)
+                 .Add(new Paragraph("Naziv na magacin")).SetFont(font);
             
             ////Uncomment for Measure Units Example 
             // Cell cell11 = new Cell(1, 1)
             //     .SetBackgroundColor(ColorConstants.YELLOW)
             //     .SetTextAlignment(TextAlignment.CENTER)
-            //     .Add(new Paragraph("Broj na magacin")).SetFont(font);
+            //     .Add(new Paragraph("Edine~na merka")).SetFont(font);
             // Cell cell12 = new Cell(1, 1)
             //     .SetBackgroundColor(ColorConstants.YELLOW)
             //     .SetTextAlignment(TextAlignment.CENTER)
-            //     .Add(new Paragraph("Naziv na magacin")).SetFont(font);
-            
-            Cell cell11 = new Cell(1, 1)
-                .SetBackgroundColor(ColorConstants.YELLOW)
-                .SetTextAlignment(TextAlignment.CENTER)
-                .Add(new Paragraph("Edine~na merka")).SetFont(font);
-            Cell cell12 = new Cell(1, 1)
-                .SetBackgroundColor(ColorConstants.YELLOW)
-                .SetTextAlignment(TextAlignment.CENTER)
-                .Add(new Paragraph("Naziv na edine~na merka")).SetFont(font);
+            //     .Add(new Paragraph("Naziv na edine~na merka")).SetFont(font);
             
             
  
